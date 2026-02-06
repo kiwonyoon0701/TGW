@@ -26,3 +26,18 @@ kiwonyoon0701@gmail.com
 
 
 ### Source account
+1. VPC -> Transit gateway attachments
+
+2. Create Transit Gateway Attachment
+   1. Transit gateway ID : tgw-0349xxxxxxxxxxxx
+   2. Attachment name tag : seoulvpc
+   3. DNS support : enable
+   4. VPC ID : SeoulVPC
+   5. Click Create
+
+3. VPC -> Transit Gateway Route Tables
+
+4. Create Transit Gateway Route Table
+5. 
+
+
